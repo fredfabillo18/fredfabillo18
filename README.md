@@ -2,7 +2,7 @@
 
 Mechanical engineer applying **systems thinking** to machines, data, and real-world problems. 🚀
 
-I enjoy analyzing how complex systems behave — from thermodynamic cycles and engineered machines to datasets and processes. I'm especially interested in simulation, modeling, and data-driven engineering.
+I enjoy analyzing how complex systems behave — from thermodynamic cycles and machine design to datasets and processes. I'm especially interested in **simulation, modeling, and data-driven engineering.**
 
 ## ⚙️ Tools & Technologies
 
